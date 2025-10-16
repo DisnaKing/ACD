@@ -1,0 +1,10 @@
+Size,Character,Speed_Ground,Speed_Water,Speed_Air,Speed_AntiGravity,Acceleration,Weight,Handling_Ground,Handling_Water,Handling_Air,Handling_AntiGravity,Traction,Mini_Turbo
+Small,Babies,0,0,0,0,5,0,10,10,10,10,5,5
+Small,ShyGuy,2,2,2,2,4,2,8,8,8,8,4,4
+Medium,CatPeach,4,4,4,4,4,3,6,6,6,6,3,4
+Medium,Yoshi,4,4,4,4,3,4,6,6,6,6,3,3
+Medium,Villager,6,6,6,6,3,5,4,4,4,4,2,3
+Medium,Mario,6,6,6,6,2,6,4,4,4,4,2,2
+Medium,GoldPeach,8,8,8,8,0,10,2,2,2,2,0,0
+Large,Rosalina,8,8,8,8,1,8,2,2,2,2,1,1
+Large,Bowser,10,10,10,10,0,10,0,0,0,0,0,0
